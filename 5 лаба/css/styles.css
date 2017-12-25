@@ -1,0 +1,98 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.text
+{
+    margin: 8px;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.head_name
+{
+    text-align:  center;
+    color: #191970;
+}
+
+.my_face
+{
+    float: left;
+    width: 280px;
+    height: 300px;
+    margin: 8px;
+}
+
+.row_in_3
+{
+    float: left;
+    width: 22%;
+    margin: 8px;
+}
+
+.the_basis
+{
+    background-color: #D8BFD8;
+    width: 100%;
+}
+
+.header_film
+{
+    text-align: center;
+}
+
+.footer
+{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.film
+{
+    float: left;
+    width: 25%;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.container
+{
+    width: 1200px;
+    margin: 0px auto;
+    margin-top: 8px;
+    background-color: #D8BFD8;
+}
+
+.imgCenter
+{
+    text-align:center;
+}
+
+.film img
+{
+    max-width: 100%;
+}
+
+.row
+{
+    padding: 10px;
+    margin: 8px;
+}
+
+.head_film
+{
+    color: #191970;
+}
+
+.text
+{
+    color: #B22222;
+}
+
+
+
